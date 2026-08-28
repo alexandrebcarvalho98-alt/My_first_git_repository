@@ -1,0 +1,1 @@
+print("Minha primeira execução via GitHub Actions!")
